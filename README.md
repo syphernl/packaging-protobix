@@ -5,8 +5,6 @@ This creates a nice and tidy package of [python-protobix](https://github.com/jbf
 
 This repo contains script to be able to automatically generate Debian packages with appropriate dependencies.
 
-**Please note this is still a *Work In Progress*. Generated packages may or may not work. YMMV & contributions are welcome!**
-
 Usage
 -------------
 
